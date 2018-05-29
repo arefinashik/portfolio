@@ -1,0 +1,161 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+body{
+	background-color: #663399;
+	color: white;
+}
+.main{
+	
+	color: green;
+	height:1224px;
+	width: 960px;
+	margin: 0px auto;
+	background-color: white;
+	border-bottom: 10px solid black;
+
+}
+.front1{
+	height: 380px;
+	width: 960px;
+	background-color: none;
+	border-bottom: 3px solid #E3DDED;
+}
+.header1{
+	height: 100px;
+	width: 960px;
+	margin: 0px auto;
+	color: white;
+	text-align: right;
+	background-color: #491B8C;
+	margin-top: 50px;
+	border-bottom:2px solid #855CC2;
+}
+.developers{
+	text-align: left;
+	
+}
+.developers a{
+	text-decoration: none;
+	font-size: 20px;
+	color: white;
+}
+.developers a:hover{
+	color:#491B8C ;
+	background-color: white;
+}
+.frontpage1{
+	background-color: white;
+	color: #663399;
+	height: 150px;
+	width: auto;
+	margin: 0px auto;
+
+}
+.pic{
+	float: left;
+}
+.t1{
+	float: left;
+	height: 250px;
+	width: 680px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: #9D9AA2;
+	color:black;
+}
+.pic img{
+	height: 250px;
+	width: 200px;
+	margin:20px;
+
+}
+.link a{
+	text-decoration: none;
+	height: auto;
+	width: 50px;
+	margin-left: 10px;
+	background-color: white;
+}
+/*2nd part */
+.front2{
+	height: 355px;
+	width: 960px;
+	margin: 0px auto;
+	padding: 0px;
+	margin-left: 2px;
+	background-color: #6B6870;
+}
+.header2{
+	height: 100px;
+	width: 960px;
+	background-color: #E3DDED;
+	border:2px solid #6B6870;
+
+	}
+.header2 p{
+	margin-top: 20px;
+	font-size: 20px;	
+	text-align: center;
+	color: black;;
+
+}
+.header2 a{
+	height: auto;
+	width: 50px;
+	color: white;
+	background-color: #239B56;
+	text-decoration: none;
+	border:1px solid #6B6870;
+}
+.frontpage2{
+	height: 250px;
+	width: 960px;
+}
+.part{
+	border-right: 3px solid #6B6870;
+	background-color: white;
+	color: #6B6870;
+	font-size: 10px;
+	height: 250px;
+	width: 317px;
+	float: left;
+}
+
+.part h1,h2,h3,p{
+	margin-left: 10px;
+}
+/*front3*/
+.frontpage3{
+	height: 150px;
+	width: 960px;
+	background-color: blue;
+
+}
+.part2{
+	border-right: 3px solid #6B6870;
+	background-color: white;
+	color: #6B6870;
+	font-size: 10px;
+	width: 317px;
+	height:150px;
+	float: left;
+}
+.part2 h1,h2,h3,p{
+	margin-left: 10px;
+	font-size: 15px;
+}
+.front4{
+	height: 250px;
+	width: 960px;
+	background-color: white;
+	color: green;
+	border:2px solid #6B6870;
+}
+.text h1{
+	margin-left:200px;
+	font-size: 15px;
+
+
+}
